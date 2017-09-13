@@ -23,8 +23,8 @@
         "psr-4": { "Webburza\\Sylius\\GoogleEcommerceBundle\\": "" }
     },
     "require": {
-        "sylius/core": "^v1.0.0-beta.1",
-        "twig/twig": "^1.27"
+        "sylius/core": "^v1.0.0",
+        "twig/twig": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
